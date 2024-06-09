@@ -1,0 +1,6 @@
+<launch>
+	<rosparam command="load" file="$(find mappa_temperatura)/config/parametri_sensing.yaml" />
+<!-- inserire rosparam per altri gruppi-->
+	<node respawn="true" pkg="mappa_temperatura" type="conversione.py"  name="CONVERSIONE"  output="screen"/>
+</launch>
+
