@@ -1,0 +1,4 @@
+<launch>
+    <node respawn="true" pkg="mappa_temperatura" type="simula_nav.py"  name="SIMULA_LAT_LONG"  output="screen"/>
+    <node respawn="true" pkg="mappa_temperatura" type="sensing_ambiente.py"  name="SENSING_AMBIENTE"  output="screen"/>
+</launch>
