@@ -1,8 +1,4 @@
 PROGETTO DI SISTEMI SUBACQUEI- README
-Autori: Cristiano Cammelletti 
-	Giovanni Ciacchini
-	Paolo Gambino 
-
 
 PRESENTAZIONE FILE PRESENTI NELLA CARTELLA:
 
